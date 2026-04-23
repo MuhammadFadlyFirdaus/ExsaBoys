@@ -1,4 +1,4 @@
-import { members } from "./src/data/members";
+import { members } from "../src/data/members";
 
 const requiredFields = ["id", "name", "role", "bio", "fullBio", "avatar", "isOnline", "skills"];
 
